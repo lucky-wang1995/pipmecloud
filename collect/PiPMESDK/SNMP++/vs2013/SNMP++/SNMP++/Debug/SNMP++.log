@@ -1,0 +1,61 @@
+﻿  vb.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  v3.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  uxsnmp.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  usm_v3.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  timetick.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  target.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  snmpmsg.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  sha.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  reentrant.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  pdu.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  oid.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  octet.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  notifyqueue.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  msgqueue.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  msec.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  mp_v3.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  md5c.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  log.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  integer.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  idea.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  Generating Code...
+  Compiling...
+  gauge.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  eventlistholder.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  eventlist.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  ctr64.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  counter.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  auth_priv.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  asn1.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  address.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  IPv6Utility.cpp
+f:\code\snmp++\vs2013\snmp++\include\libsnmp.h(37): fatal error C1083: Cannot open include file: 'sys/types.h': No such file or directory
+  Generating Code...

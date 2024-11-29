@@ -1,0 +1,7 @@
+wget https://www.openssl.org/source/openssl-1.1.1n.tar.gz
+tar -xzvf openssl-1.1.1n.tar.gz
+cd openssl-1.1.1n/
+export CFLAGS="-fPIC"
+./config
+make 
+cp libssl.a libcrypto.a  ->lib

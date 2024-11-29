@@ -1,0 +1,10 @@
+﻿  cbc_enc.c
+  des_enc.c
+  ecb_enc.c
+..\..\..\libdes\ecb_enc.c(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  ede_enc.c
+  fcrypt.c
+  ncbc_enc.c
+  set_key.c
+  libdes.vcxproj -> F:\code\SNMP++\vs2013\libdes\Release\libdes.lib

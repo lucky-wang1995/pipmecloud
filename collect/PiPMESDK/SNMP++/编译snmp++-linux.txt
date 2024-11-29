@@ -1,0 +1,20 @@
+1.编译libsnmp++.a静态库：
+   a.进入snmp++-3.3.4/3.4.2目录，终端输入：./configure CFLAGS=-fPIC CXXFLAGS=-fPIC
+   b.进入include/snmp_pp/目录，编辑config_snmp_pp.h，在71行左右将定义HAVE_LIBSSL 的宏上的#if后置1，HAVE_LIBTOMCRYPT与HAVE_LIBDE上方的#if置0
+   c.退出到snmp++-3.3.4目录下，执行make命令，执行结束后进入src/.libs/目录中找libsnmp++.a静态库，拷贝到SDK的lib目录下
+
+
+查找libssl.so 和libcrypto.so
+命令行输openssl version -a
+找到ENGINESDIR  对应的路径下即可找到
+
+或者下载libssl-dev
+
+检查jdk/nginx
+java -version
+systemctl status nginx
+
+安装jdk
+sudo apt-get install openjdk-8-jdk
+安装nginx
+sudo apt-get install nginx
